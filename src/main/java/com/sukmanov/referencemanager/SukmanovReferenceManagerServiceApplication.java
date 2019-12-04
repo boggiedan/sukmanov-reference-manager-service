@@ -1,4 +1,4 @@
-package com.sukmanov.sukmanovreferencemanagerservice;
+package com.sukmanov.referencemanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

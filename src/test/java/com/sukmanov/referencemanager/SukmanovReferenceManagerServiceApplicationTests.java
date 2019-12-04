@@ -1,4 +1,4 @@
-package com.sukmanov.sukmanovreferencemanagerservice;
+package com.sukmanov.referencemanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
