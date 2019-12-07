@@ -8,7 +8,7 @@
         <version>2.2.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.sukmanov.referencemanager</groupId>
+    <groupId>com.sukmanov</groupId>
     <artifactId>sukmanov-reference-manager-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sukmanov-reference-manager-service</name>
